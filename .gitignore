@@ -1,0 +1,6 @@
+*.apk
+*.aab
+build/
+.idea/
+.vscode/
+*.log
